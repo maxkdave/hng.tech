@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://hng.tech/app/css/app.css">
 </head>
 
 <body>
@@ -45,7 +46,7 @@
     <section class="find_out_more row">
         <h1 class="col-12 col-md-8">
             Poor UI Design Can Affect<br>
-            Your Website Productivity.
+            Your Website Productivity
         </h1>
         <div class="col-12 col-md-4 find_more_btn_box ">
             <a href="https://hng.tech/views/contact.php"><button>FIND OUT MORE</button></a>
@@ -154,7 +155,7 @@
     <!--   -->
     <section class="subscribe row">
 
-        <p class="subscribe_text col-lg-6 col-md-12">Subscribe to our Newsletter to recieve design articles</p>
+        <p class="subscribe_text col-lg-6 col-md-12">Subscribe To Our Newsletter To Receive Design Articles</p>
         <div class="px-5 col-md-12 col-lg-6">
             <form action="">
                 <div class="input-group mb-3">
@@ -187,7 +188,7 @@
     </section>
     <section class="footer">
        <p>© 2019 HNG Internship . All Rights Reserved. HNG Group</p>
-       <img src="img/twitter.png" alt="">
+       <a href="https://twitter.com/hnginternship"><img src="img/twitter.png" alt=""></a>
         
     </section>
 
