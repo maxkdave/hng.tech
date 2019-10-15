@@ -41,10 +41,10 @@
 			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 			<a class="navbar-link nav-text" href="../about">WHAT IS THE INTERNSHIP?</a>
 			<a class="navbar-link nav-text" href="../interns">THE INTERNS (SO FAR)</a>
-			<a class="navbar-link nav-text" href="../products">PRODUCTS</a>
+<!--			<a class="navbar-link nav-text" href="../products">PRODUCTS</a> -->
 			<a class="navbar-link nav-text" href="../support">SUPPORT THE MISSION</a>
 			<a class="navbar-link nav-text" href="../become-intern">BECOME AN INTERN</a>
-			<a class="navbar-link nav-text" href="../blog">BLOG</a>
+<!--			<a class="navbar-link nav-text" href="../blog">BLOG</a> -->
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -57,7 +57,7 @@
 					<a class="navbar-link nav-text" href="../interns">THE INTERNS (SO FAR)</a>
 				</li>
 				<li class="nav-item  ">
-					<a class="navbar-link nav-text" href="../products">PRODUCTS</a>
+<!--					<a class="navbar-link nav-text" href="../products">PRODUCTS</a> -->
 				</li>
 				<li class="nav-item ">
 					<a class=" navbar-link nav-text" href="../support">SUPPORT THE MISSION</a>
@@ -66,7 +66,7 @@
 					<a class=" navbar-link nav-text" href="../become-intern">BECOME AN INTERN</a>
 				</li>
 				<li class="nav-item ">
-					<a class=" navbar-link nav-text" href="../blog">BLOG</a>
+<!--					<a class=" navbar-link nav-text" href="../blog">BLOG</a> -->
 				</li>
 				
 			</ul>

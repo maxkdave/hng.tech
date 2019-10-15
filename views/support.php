@@ -11,10 +11,10 @@
 					<article class="col-md-7">
 						<h2 class="hng-title">The HNG Internship</h2>
 						<blockquote class="sp-intro-quote">
-						“the interns use this money to finance their participation in the internship”
+						“The interns use this money to finance their participation in the internship”
 						</blockquote>
 						<p class="sp-intro-text">The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship. The interns use this money to finance their participation in the internship. You can support in multiple ways - the most important way is to take on one of our interns in your organisation.
-						<br><br>  Outside of that, you can co-finance an internship. We will use your product as part of the internship then (it’s good to have your product in front of 4,000 learning developers), and probably be the first tool they ever use.
+						<br><br>  Outside of that, you can co-finance an internship. We will use your product as part of the internship. It will probably be the first tool they ever use. It’s good to have your product in front of 4,000 learning developers.
 						<br><br>  Or you can just contribute directly (we are a non-profit and tax deductable). We have two addresses you can contribute to - For Everyone or Female-Only.”</p>
 					</article>
 					<div class="col-md-5">
@@ -38,7 +38,7 @@
 							<div class="sp-contribute-img">
 								<a href="https://rave.flutterwave.com/pay/hngtechltd3tcl"><img src="https://flutterwave.com/wp-content/uploads/2018/07/FLW-logo.svg" alt="stripe" ></a>
 							</div>
-							<h6 class="sp-contribute-text" style="cursor: pointer">Support the Internship.</h6>
+							<h6 class="sp-contribute-text" style="cursor: pointer">Supports the Internship.</h6>
 							
 							<!-- <div class="sp-contribute-arrow">
 								<svg width="37" height="24" viewBox="0 0 37 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -80,7 +80,7 @@
 
 		<section class="sp-sponsor">
 			<div class="container">
-				<h3 class="h2 sp-sponsor-heading">Sponsor underrepresented groups</h3>
+				<h3 class="h2 sp-sponsor-heading">Support The Program</h3>
 				<div class="row">
 					<div class="col-md-6 col-xs-12">
 						<img src="../app/img/woman-dot.png">
@@ -89,25 +89,25 @@
 						<div class="sp-sponsor-group">
 							<img src="../app/img/fem.svg" alt="1" class="sp-sponsor-icon">
 							<div> 
-								<p><strong>Female Developers and Designers</strong></p>
-								<p>The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
-								<button class="sp-sponsor-btn" data-toggle="modal" data-target="#priceModal"><img src="../app/img/arrow-circle.svg"> Get started</button>
+								<p><strong>Hire Our Interns</strong></p>
+								<p>All our interns have undergone a series of testing and assignments to get to the highest stage of the program. You can hire from our stream of interns in different tracks.</p>
+								<a href="https://hng.tech/views/contact.php"><button class="sp-sponsor-btn" data-toggle="modal" data-target="#priceModal"><img src="../app/img/arrow-circle.svg"> Get started</button></a>
 							</div>
 						</div>
 						<div class="sp-sponsor-group">
 							<img src="../app/img/user-interface.svg" alt="2" class="sp-sponsor-icon">
 							<div>
-								<p><strong>User Interface Designers</strong></p>
-								<p>The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
-								<button class="sp-sponsor-btn" data-toggle="modal" data-target="#priceModal"><img src="../app/img/arrow-circle.svg"> Get started</button>
+								<p><strong>Fund The Program</strong></p>
+								<p>You can fund the program with any amount. The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
+								<a href="https://hng.tech/views/contact.php"><button class="sp-sponsor-btn" data-toggle="modal" data-target="#priceModal"><img src="../app/img/arrow-circle.svg"> Get started</button></a>
 							</div>
 						</div>
 						<div class="sp-sponsor-group">
 							<img src="../app/img/tools.svg" alt="3" class="sp-sponsor-icon">
 							<div>
-								<p><strong>Sponsor via software or tool</strong></h4>
-								<p>The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
-								<button class="sp-sponsor-btn" data-toggle="modal" data-target="#priceModal"><img src="../app/img/arrow-circle.svg"> Get started</button>
+								<p><strong>Sponsor Via Software Or Tools</strong></h4>
+								<p>You can sponsor the interns with software or tools to further enhance their skills. Software or tools will be part of the curriculum for the interns.</p>
+								<a href="https://hng.tech/views/contact.php"><button class="sp-sponsor-btn" data-toggle="modal" data-target="#priceModal"><img src="../app/img/arrow-circle.svg"> Get started</button></a>
 							</div>
 						</div>
 					</div>

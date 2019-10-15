@@ -29,7 +29,7 @@
 						<ul class="banner-list-text">
 							<li class="list-text">The HNG internship is a 3-month remote internship designed to find and develop
 							the most talented software developers.</li>
-							<li class="list-text">Everyone is welcome to participate (there is no entrance exam). Anyone can log
+							<li class="list-text">Everyone is welcome to participate, there is no entrance exam. Anyone can log
 							into the internship using their laptop. Each week, we give tasks. Those who complete
 							them advance forward. We pay the interns weekly.</li>
 							<li class="list-text">The intern coders are introduced to complex programming frameworks, and get to work

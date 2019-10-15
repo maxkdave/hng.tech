@@ -893,7 +893,7 @@ body {
 }
 
 .ap-toon {
-    position: absolute;
+    position: inherit;
     right: 0;
     bottom: 0;
 }
